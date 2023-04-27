@@ -111,7 +111,7 @@ int main(void)
 ![ON](https://user-images.githubusercontent.com/94288340/234836771-e4565363-e5e1-4231-94c4-92d490fa687c.png)
 
 ## Proteus layout(Add pdf screen shot of circuit here)
-![Screenshot (2)](https://user-images.githubusercontent.com/94288340/234837510-662f618b-861a-43e2-8b64-9350b346aa43.png)
+![layout1](https://user-images.githubusercontent.com/94288340/234838509-7e444e2f-c7f9-4387-969a-9835075977a9.png)
 
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
