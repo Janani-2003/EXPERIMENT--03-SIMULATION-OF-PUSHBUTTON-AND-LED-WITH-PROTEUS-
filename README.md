@@ -104,14 +104,14 @@ int main(void)
 }
 ```
 ## Output screen shots of proteus  :
-### LED ON CONDITION
-![led off](https://user-images.githubusercontent.com/94288340/234833052-2505fdd5-448f-48fb-987b-67f87b782283.png)
-
 ### LED OFF CONDITION
-![led on](https://user-images.githubusercontent.com/94288340/234833082-11f7aeeb-5c90-4b4d-a276-ce638881da38.png)
+![OFF](https://user-images.githubusercontent.com/94288340/234836568-3873d9e6-003e-4bab-a3d1-5bd8646bf5a6.png)
+
+### LED ON CONDITION
+![ON](https://user-images.githubusercontent.com/94288340/234836771-e4565363-e5e1-4231-94c4-92d490fa687c.png)
 
 ## Proteus layout(Add pdf screen shot of circuit here)
-![layout](https://user-images.githubusercontent.com/94288340/234833736-fcb20b9a-337d-4ee3-aafd-7cc3e1dce2a5.png)
+![Screenshot (2)](https://user-images.githubusercontent.com/94288340/234837510-662f618b-861a-43e2-8b64-9350b346aa43.png)
 
 ## Result :
 Interfacing a digital output and digital input  with ARM microcontroller are simulated in proteus and the results are verified.
